@@ -1,0 +1,4 @@
+Archive: stable
+Component: main
+Architecture: amd64
+Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)

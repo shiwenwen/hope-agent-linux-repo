@@ -1,0 +1,6 @@
+Codename: stable
+Suite: stable
+Components: main
+Architectures: amd64
+SignWith: F0F66A31DFAAEA08
+Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)

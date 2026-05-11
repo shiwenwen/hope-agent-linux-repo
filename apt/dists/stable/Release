@@ -1,0 +1,18 @@
+Suite: stable
+Codename: stable
+Date: Mon, 11 May 2026 16:34:38 UTC
+Architectures: amd64
+Components: main
+Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)
+MD5Sum:
+ bf6ec6fbd95d92d91c8eba5292b41550 525 main/binary-amd64/Packages
+ 4b4961f24b40144ec5950ad8218ac8f5 391 main/binary-amd64/Packages.gz
+ 7d2a969c2b4c22c4d685c9f38192bf4f 153 main/binary-amd64/Release
+SHA1:
+ fbe6e976d573effb14a267f44600f5cf0f2ada52 525 main/binary-amd64/Packages
+ 8e3b0a4e329b0e84a8c0b4ba6c22d5d639b765c4 391 main/binary-amd64/Packages.gz
+ a39e1331ff04f11f7d40b059de5a91de27c0f34a 153 main/binary-amd64/Release
+SHA256:
+ 103aaca70fc83b422de268ee183a1564a4336793421b50c8e92644cb5516f2ff 525 main/binary-amd64/Packages
+ b3742024d577b16ca79e3e6c78838a1983714e76e02315b9046f069639c6e21f 391 main/binary-amd64/Packages.gz
+ 36046b0f6917bcdba152a00bdfb4c3294dea52156c4e8455241c6c1a8fa2fb94 153 main/binary-amd64/Release

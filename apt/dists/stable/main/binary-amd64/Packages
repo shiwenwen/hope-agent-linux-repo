@@ -1,0 +1,16 @@
+Package: hope-agent
+Version: 0.1.2
+Architecture: amd64
+Installed-Size: 194700
+Maintainer: shiwenwen
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Priority: optional
+Section: utils
+Filename: pool/main/h/hope-agent/hope-agent_0.1.2_amd64.deb
+Size: 75237204
+SHA256: 518f65229424c947f25e24b6d9a36ce9b86506cb81f93a56923a5ae8d14c85d7
+SHA1: 88da31b2e9a7079932564274f67e67fe6672d323
+MD5sum: 3f9358632bd62350b5cdc9629bcce51d
+Description: Hope Agent - Personal AI Assistant with deep system integration
+ (none)
+
