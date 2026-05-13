@@ -1,18 +1,27 @@
 Suite: stable
 Codename: stable
-Date: Mon, 11 May 2026 16:34:38 UTC
-Architectures: amd64
+Date: Wed, 13 May 2026 11:01:12 UTC
+Architectures: amd64 arm64
 Components: main
 Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)
 MD5Sum:
- bf6ec6fbd95d92d91c8eba5292b41550 525 main/binary-amd64/Packages
- 4b4961f24b40144ec5950ad8218ac8f5 391 main/binary-amd64/Packages.gz
+ b317a7465d5837922d3e5c0f3b90e29d 1101 main/binary-amd64/Packages
+ f7eb35b4ee53ed007f55efa9526ce2db 722 main/binary-amd64/Packages.gz
  7d2a969c2b4c22c4d685c9f38192bf4f 153 main/binary-amd64/Release
+ 31fcf93b8802bee9e4e70ecd166c9383 1101 main/binary-arm64/Packages
+ a056e113a4d3a97f3a93111ff6466111 726 main/binary-arm64/Packages.gz
+ 1827b5ae31e0a88a02fac4a279cd109e 153 main/binary-arm64/Release
 SHA1:
- fbe6e976d573effb14a267f44600f5cf0f2ada52 525 main/binary-amd64/Packages
- 8e3b0a4e329b0e84a8c0b4ba6c22d5d639b765c4 391 main/binary-amd64/Packages.gz
+ f94826dc3819367500e5fb04aa2a32a79d015177 1101 main/binary-amd64/Packages
+ c145db745672989e463dcc87c2fffdab8b609959 722 main/binary-amd64/Packages.gz
  a39e1331ff04f11f7d40b059de5a91de27c0f34a 153 main/binary-amd64/Release
+ 83f03b6e73541d12bb681cfcc4b56ce90cdeddb0 1101 main/binary-arm64/Packages
+ 728e09f55dfb7aded0421f7eec12b32374b39708 726 main/binary-arm64/Packages.gz
+ 9ca8f39ebda74fbb6356a8063daf9c16fab9fc45 153 main/binary-arm64/Release
 SHA256:
- 103aaca70fc83b422de268ee183a1564a4336793421b50c8e92644cb5516f2ff 525 main/binary-amd64/Packages
- b3742024d577b16ca79e3e6c78838a1983714e76e02315b9046f069639c6e21f 391 main/binary-amd64/Packages.gz
+ ba9e2f29d6ab362368e91c956916681c62282742639141354575b264a2003efe 1101 main/binary-amd64/Packages
+ 05c83b59cff907290a8c764d4c46ae255855d6355803f6ff911548e34c1437f1 722 main/binary-amd64/Packages.gz
  36046b0f6917bcdba152a00bdfb4c3294dea52156c4e8455241c6c1a8fa2fb94 153 main/binary-amd64/Release
+ 7e4aecff8992ad784b64f97ad1e27d310a0ddb6d5ef87be934c94e805e963a8d 1101 main/binary-arm64/Packages
+ 069008d366d4e6dd877eae7c77cc2564b0746491aac5c7cbb3787e23dd0b8ac5 726 main/binary-arm64/Packages.gz
+ 2586c3d222ed0e0f69e5c81c09d45ae2bd07fbd36511e64c86c819f948961269 153 main/binary-arm64/Release
