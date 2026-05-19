@@ -1,27 +1,27 @@
 Suite: stable
 Codename: stable
-Date: Thu, 14 May 2026 14:55:02 UTC
+Date: Tue, 19 May 2026 00:47:08 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)
 MD5Sum:
- 0260464b0943048780316b5c419a3047 1101 main/binary-amd64/Packages
- f7211f1f0d2519e214dbdbe675ef22dc 727 main/binary-amd64/Packages.gz
+ 3c6ca3d454b52f4636bc8f096eb4aead 1101 main/binary-amd64/Packages
+ 36e75ddd6cd0355e2224f735207a40e8 727 main/binary-amd64/Packages.gz
  7d2a969c2b4c22c4d685c9f38192bf4f 153 main/binary-amd64/Release
- 6e2ba0493f71718dbb2c6502b3db1194 1101 main/binary-arm64/Packages
- fcbbcb85b5182c68a937bca2ceaa028b 725 main/binary-arm64/Packages.gz
+ 0a0c1b63122b8472bc627879fae049b5 1101 main/binary-arm64/Packages
+ 82006f5667d8e0f1f2d243f07d0bc685 728 main/binary-arm64/Packages.gz
  1827b5ae31e0a88a02fac4a279cd109e 153 main/binary-arm64/Release
 SHA1:
- 39c498c590aff7c55ac2fbf147a68e35bac17478 1101 main/binary-amd64/Packages
- bc455b8971b43957d013c987be183e8eb7f961e6 727 main/binary-amd64/Packages.gz
+ cb07eceb9bc17c36300dc0b599ee18e3e52e1ac7 1101 main/binary-amd64/Packages
+ f35129ce86fad4710258445928f36ac411926056 727 main/binary-amd64/Packages.gz
  a39e1331ff04f11f7d40b059de5a91de27c0f34a 153 main/binary-amd64/Release
- 3c5090c48ac4ca1170decd4c14f017a01a677b8e 1101 main/binary-arm64/Packages
- 4d1e64d292d13a2bdfcf5958d6b51efc0ec363b2 725 main/binary-arm64/Packages.gz
+ a81d839cfc76e977d1a986aa2b54e0d3aa627224 1101 main/binary-arm64/Packages
+ 31884ec5eb7af3473f606107c86b274fb7d7334b 728 main/binary-arm64/Packages.gz
  9ca8f39ebda74fbb6356a8063daf9c16fab9fc45 153 main/binary-arm64/Release
 SHA256:
- a20c253aeffdd6fa6a7871a560e561929f0a08eb1817789ca35301608513cab7 1101 main/binary-amd64/Packages
- 58dc91ba10586c66b691b00ebbba67c476a8c8501d490be193d25b89cd7eb2f2 727 main/binary-amd64/Packages.gz
+ 0385a34ad0fcc15a36f4c2328f874ac90fb535274f7c692e6733e627ee457840 1101 main/binary-amd64/Packages
+ e4cc96a9440058826f51a0100dc2d85225fee985385f98b3f9cbd76162d692a5 727 main/binary-amd64/Packages.gz
  36046b0f6917bcdba152a00bdfb4c3294dea52156c4e8455241c6c1a8fa2fb94 153 main/binary-amd64/Release
- aa6f158e31d4ac5c73c2cff4d0f0eb20eefe5f5b8c0f8f67a84951d2e33cd68c 1101 main/binary-arm64/Packages
- d2c6cb255dbe153f2732ef45d6b13f1a2c28437d4ce940bc4c89b207853295bf 725 main/binary-arm64/Packages.gz
+ 38945719fc1f9544091fc52a5ee555731cda95c3d16c83f471b37550c83987b5 1101 main/binary-arm64/Packages
+ 79229940f532a194099c514b34713c4bc4255e4e2a1290e655010dde1ca8051b 728 main/binary-arm64/Packages.gz
  2586c3d222ed0e0f69e5c81c09d45ae2bd07fbd36511e64c86c819f948961269 153 main/binary-arm64/Release
