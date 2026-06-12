@@ -3,35 +3,35 @@ Hash: SHA512
 
 Suite: stable
 Codename: stable
-Date: Fri, 12 Jun 2026 04:43:55 UTC
+Date: Fri, 12 Jun 2026 07:27:55 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Hope Agent apt repository (auto-published, see https://github.com/shiwenwen/hope-agent)
 MD5Sum:
- c1daeae4e76882e56627a733daca7dc7 1103 main/binary-amd64/Packages
- 3654933a58948a4faa9c169bd6a54ff6 726 main/binary-amd64/Packages.gz
+ d67272f3b58e003d19f14e8c219abc1c 1103 main/binary-amd64/Packages
+ 86a1e80c23a5e7ac67eed52f1ab6c01a 728 main/binary-amd64/Packages.gz
  7d2a969c2b4c22c4d685c9f38192bf4f 153 main/binary-amd64/Release
- a9e55d18b14a0d746994cbcf516b0ec4 1103 main/binary-arm64/Packages
- b085a3f873dd3f909166bab70a2e0155 728 main/binary-arm64/Packages.gz
+ bddf1e753c3b74825883c5ad822a4a6e 1103 main/binary-arm64/Packages
+ f024bd919532cf8d301a7689df1e064e 727 main/binary-arm64/Packages.gz
  1827b5ae31e0a88a02fac4a279cd109e 153 main/binary-arm64/Release
 SHA1:
- 92ef9ca0a6391b3acfadb132164018fda09e944d 1103 main/binary-amd64/Packages
- a4d20a011aa390b0276fbb6cfe028d29b6f6de76 726 main/binary-amd64/Packages.gz
+ a8184691bbb0ed1b36b1375d6ec1f62cfc9fea12 1103 main/binary-amd64/Packages
+ 6ddee2f4da541bb7ff43e73fe677a9d661848669 728 main/binary-amd64/Packages.gz
  a39e1331ff04f11f7d40b059de5a91de27c0f34a 153 main/binary-amd64/Release
- 391d9ab61defe73ed9b7cbc56a08cf7432ad6693 1103 main/binary-arm64/Packages
- 404a6d21a3ab78ef4a3a30949178ee1de44aa32b 728 main/binary-arm64/Packages.gz
+ a81933342ef462075b94e889cca7addd5c218534 1103 main/binary-arm64/Packages
+ f7b11cdb41ead345c752dba6b9085800ee461598 727 main/binary-arm64/Packages.gz
  9ca8f39ebda74fbb6356a8063daf9c16fab9fc45 153 main/binary-arm64/Release
 SHA256:
- cf9dec317d4601bd72f38a5b83a5c364e0b8c7e29fad1656262ab9816af0a912 1103 main/binary-amd64/Packages
- 75c253971378073319ea63173f724868b3e47d6f2f198a0ccfed798607ab0f7c 726 main/binary-amd64/Packages.gz
+ db76895aac59d6687b242fb29193cacb0486ace9b52133522a86739f08c97249 1103 main/binary-amd64/Packages
+ 59a2cce153166cd8a59dc3554e00fe639d54a5d067e45ee6b5d216f17a46ab7d 728 main/binary-amd64/Packages.gz
  36046b0f6917bcdba152a00bdfb4c3294dea52156c4e8455241c6c1a8fa2fb94 153 main/binary-amd64/Release
- ef4e70fe03ba177c046a64868d1d04dd7592a67e9358d156d6d82119cffcc18a 1103 main/binary-arm64/Packages
- 3dcfe28b5c3b83cdd36cddd167a461c85365936eb23d53ea7fb8ecfb51c08df1 728 main/binary-arm64/Packages.gz
+ 7571662175534a92940ad56bc6623cc375e6e4a4298a01c8817f72daa0bc8317 1103 main/binary-arm64/Packages
+ 2554225d7f00a1c84d93aab364ba6b436cc812e1981685be92ee73e3491d6f28 727 main/binary-arm64/Packages.gz
  2586c3d222ed0e0f69e5c81c09d45ae2bd07fbd36511e64c86c819f948961269 153 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRfgBbVBjPnJZCemtfw9mox36rqCAUCaiuOiwAKCRDw9mox36rq
-CDW5AQC645dxrfGx/xd3pt540KijtSAv1wHb1/XnAv7mS7eGOgEAg2WOhNsKksIK
-E132Y7Bu4jkOk/ldod42LV26R8GfrQ8=
-=N6Go
+iHUEARYKAB0WIQRfgBbVBjPnJZCemtfw9mox36rqCAUCaiu0+wAKCRDw9mox36rq
+CB6xAP42nJGg0KYIVbXGd9ZDWuzQPLB2XcATa1uUlyfz2l5X3wD+IQG9RHcOsDQm
+sw4ryus2oiBSTb0BHQYl7MDgOD3XogA=
+=Ko4M
 -----END PGP SIGNATURE-----
