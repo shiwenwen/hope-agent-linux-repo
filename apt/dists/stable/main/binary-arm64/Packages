@@ -1,16 +1,16 @@
 Package: hope-agent
-Version: 0.12.0
+Version: 0.13.0
 Architecture: arm64
-Installed-Size: 133736
+Installed-Size: 136039
 Maintainer: shiwenwen
 Depends: libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Priority: optional
 Section: utils
-Filename: pool/main/h/hope-agent/hope-agent_0.12.0_arm64.deb
-Size: 68832700
-SHA256: 2d4dc77f9b2935e3f1be7a332bb17998a4c242142f4be56ac6769c03a2986763
-SHA1: ee9b2f5621f40c37ec8b38df5f7fdd06f0b7cd59
-MD5sum: b0bcd660f4cee43555af2f9830b29566
+Filename: pool/main/h/hope-agent/hope-agent_0.13.0_arm64.deb
+Size: 69268716
+SHA256: d5d4cab6eb5c932e7b5e01029e5d8a8c659403fd91f990564091c235eed44aad
+SHA1: 34e2ea31233d7bce59b74ab4059cf61591464a95
+MD5sum: de5ca4097c1d31d1a145736ade4c6703
 Description: Local-first AI assistant with cross-device sessions and IM channel routing
  Hope Agent is a local-first AI assistant desktop app. Sessions hand off seamlessly across your devices and chats; memory accumulates over time and recurring work crystallizes into reusable skills. The single binary runs in three modes: desktop GUI, HTTP/WS daemon for headless deployment, and ACP stdio for IDE integrations. Built-in templates for mainstream LLM providers (Anthropic, OpenAI, Codex, plus local LLM via Ollama) cover the typical setup with a paste-the-API-key flow; IM channel integration covers Slack, Discord, Telegram, Feishu, WhatsApp, LINE, and more.
 
